@@ -2,7 +2,9 @@ pdnui
 ==
 Basic platform for kinect-based public display installations.
 
-The code was developed between 2013 and 2015 in the framework of the [Software Campus](http://www.softwarecampus.de/start/) project *IUPD*, funded by the [Federal Ministry of Education and Research]("http://www.bmbf.de/en/") (grant 01IS12056). It was used as a basis for various public installations and user studies related to the project:
+Author: [Robert Walter](https://github.com/robbeofficial) / [www.rwalter.de](www.rwalter.de)
+
+The code was developed between 2013 and 2015 in the framework of the [Software Campus](http://www.softwarecampus.de/start/) project *IUPD*, funded by the [Federal Ministry of Education and Research](http://www.bmbf.de/en/) (grant 01IS12056). It was used as a basis for various public installations and user studies related to the project:
 
 Cuenesics: Using Mid-Air Gestures to Select Items on Interactive Public Displays
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xdusehtrXzI"><img src="http://img.youtube.com/vi/xdusehtrXzI/0.jpg" alt="Cuenesics: Using Mid-Air Gestures to Select Items on Interactive Public Displays" width="480" height="360" border="10" /></a>
