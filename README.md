@@ -12,7 +12,7 @@ Cuenesics: Using Mid-Air Gestures to Select Items on Interactive Public Displays
 Analyzing Visual Attention During Whole Body Interaction with Public Displays
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=W4D6tUzQRDU"><img src="http://img.youtube.com/vi/W4D6tUzQRDU/0.jpg" alt="Cuenesics: Using Mid-Air Gestures to Select Items on Interactive Public Displays" width="480" height="360" border="10" /></a>
 
-The code contains a small feature demonstration application ([PdNuiDemo](../../blob/master/pdnui/src/de/tub/tlabs/qu/mpi/pdnuidemo/PdNuiDemo.java)). Implementations of specific installations, or project specific annotation- and analysis tools will be provided upon request.
+The code contains a small feature demonstration application ([PdNuiDemo](../../blob/master/src/de/tub/tlabs/qu/mpi/pdnuidemo/PdNuiDemo.java)). Implementations of specific installations, or project specific annotation- and analysis tools will be provided upon request.
 
 Features
 ==
