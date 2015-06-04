@@ -2,7 +2,7 @@ pdnui
 ==
 Basic platform for kinect-based public display installations.
 
-Author: [Robert Walter](https://github.com/robbeofficial) / [www.rwalter.de](www.rwalter.de)
+Author: [Robert Walter](https://github.com/robbeofficial) / [www.rwalter.de](http://www.rwalter.de)
 
 The code was developed between 2013 and 2015 in the framework of the [Software Campus](http://www.softwarecampus.de/start/) project *IUPD*, funded by the [Federal Ministry of Education and Research](http://www.bmbf.de/en/) (grant 01IS12056). It was used as a basis for various public installations and user studies related to the project:
 
